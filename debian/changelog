@@ -1,5 +1,5 @@
-ruby-multipart-post (2.0.0-1) UNRELEASED; urgency=medium
+ruby-multipart-post (2.0.0-1) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)
+  * Rubygems release 2.0.0
 
- -- Julien Vanier <monkbroc@julien-xps13>  Thu, 27 Oct 2016 16:16:54 -0400
+ -- Julien Vanier <julien@particle.io>  Thu, 27 Oct 2016 16:16:54 -0400
